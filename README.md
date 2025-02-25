@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **dcfynn@icloud.com**
 
-- 📄 Know about my experiences [https://morieskie.github.io/react-resume](https://morieskie.github.io/react-resume)
+- 📄 Know about my experiences [https://morieskie.github.io/next-resume](https://morieskie.github.io/next-resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
