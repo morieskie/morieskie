@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Derick Fynn</h1>
+<h1 align="center">Hi 👋, I'm Derick</h1>
 
 - 🔭 I’m currently working on [Angular v19](https://github.com/morieskie/resume-angular)
 
