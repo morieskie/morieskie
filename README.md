@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Derick</h1>
+<h1 align="center">Hi 👋, I'm Dee</h1>
 
 - 🔭 I’m currently working on [Angular v19](https://github.com/morieskie/resume-angular)
 
@@ -8,14 +8,14 @@
 
 - 💬 Ask me about **React, Angular, Laravel, Nest**
 
-- 📫 How to reach me **dcfynn@icloud.com**
+- 📫 How to reach me **__.com**
 
 - 📄 Know about my experiences [https://morieskie.github.io/next-resume](https://morieskie.github.io/next-resume)
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=morieskie&show_icons=true&locale=en&layout=compact" alt="morieskie" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=morieskie&show_icons=true&locale=en" alt="morieskie" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=morieskie&show_icons=true&locale=en" alt="morieskie" /> -->
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morieskie&label=Profile%20views&color=0e75b6&style=flat" alt="morieskie" /> </p>
